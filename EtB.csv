@@ -26,7 +26,7 @@
  b_aylesbury,Aylesbury
  b_newport,Newport
  b_wycombe,Wycombe
- d_northumberland,1 Northumbria
+ d_northumberland,Northumbria
  c_northumberland,Northumberland
  b_bamburgh,Bamburgh
  b_rothbury,Rothbury
@@ -108,12 +108,12 @@
  b_rutland,Rutland
  c_nottinghamshire,Nottinghamshire
  b_nottingham,Nottingham
- b_newark,1 Sherwood
+ b_newark,Sherwood
  b_retford,Retford
  c_staffordshire,Staffordshire
  b_stafford,Stafford
  b_wolverhampton,Wolverhampton
- b_stoke_on_trent,1 Burslem
+ b_stoke_on_trent,Burslem
  c_worcestershire,Worcestershire
  b_worcester,Worcester
  b_evesham,Evesham
@@ -129,7 +129,7 @@
  c_shropshire,Shropshire
  b_shrewsbury,Shrewsbury
  b_ludlow,Ludlow
- b_bishops_castle,1 Westbury
+ b_bishops_castle,Westbury
  d_gloucester,Hwicce
  c_gloucestershire,Gloucestershire
  b_gloucester,Gloucester
@@ -165,7 +165,7 @@
  b_arun,Arun
  b_hastings,Hastings
  d_somerset,Wessex
- c_hampton,1 Hampshire
+ c_hampton,Hampshire
  b_winchester,Winchester
  b_southampton,Southampton
  b_portsmouth,Portsmouth
@@ -195,31 +195,31 @@
  b_helston,Helston
  k_wales,Wales
  d_gwynedd,Gwynedd
- c_cardiganshire,1 Ceredigion
+ c_cardiganshire,Ceredigion
  b_cardigan,Cardigan
  b_aberystwyth,Aberystwyth
  c_merioneth,Merioneth
- b_dolgellau,1 Harlech
+ b_dolgellau,Harlech
  b_corwen,Corwen
- c_caernarfonshire,1 Snowdon
+ c_caernarfonshire,Snowdon
  b_caernarfon,Caernarfon
  b_llyn,Llyn
  b_llandudno,Llandudno
  c_anglesey,Anglesey
- b_yns_mon,1 Aberffraw
+ b_yns_mon,Aberffraw
  b_holyhead,Holyhead
- c_denbighshire,1 Perfeddwlad
+ c_denbighshire,Perfeddwlad
  b_denbigh,Denbigh
- b_wrexham,1 Tegeingl
+ b_wrexham,Tegeingl
  b_ruthin,Ruthin
  d_powys,Powys
- c_maldwyn,1 Penllyn
- b_welshpool,1 Mathrafal
+ c_maldwyn,Penllyn
+ b_welshpool,Mathrafal
  b_newtown,Newtown
- c_sir_faesyfed,1 Ferlix
+ c_sir_faesyfed,Ferlix
  b_llandrindod,Llandrindod
  b_rhayader,Rhuddalt
- c_hereford,1 Herefordshire
+ c_hereford,Herefordshire
  b_hereford,Hereford
  b_wigmore,Wigmore
  b_clifford,Clifford
@@ -227,25 +227,25 @@
  c_carmarthenshire,Carmarthenshire
  b_carmarthen,Carmarthen
  b_llandovery,Llandovery
- c_pembrokeshire,1 Dyfed
+ c_pembrokeshire,Dyfed
  b_pembroke,Pembroke
  b_st_davids,St. Davids
- b_fishguard,1 Cemais
+ b_fishguard,Cemais
  c_glamorgan,Glamorgan
  b_cardiff,Cardiff
  b_swansea,Swansea
  b_caerphilly,Caerphilly
- c_monmouthshire,1 Gwent
- b_casnewydd,1 Caerleon
+ c_monmouthshire,Gwent
+ b_casnewydd,Caerleon
  b_monmouth,Monmouth
- c_brecknockshire,1 Brecknock
+ c_brecknockshire,Brecknock
  b_brecon,Brecon
  b_talgarth,Talgarth
  k_scotland,Scotland
  d_albany,Albany
  c_gowrie,Gowrie
  b_st_johnston,St Johnston
- b_coupar_angus,1 Scone
+ b_coupar_angus,Scone
  b_crieff,Crieff
  c_fife,Fife
  b_dunfermline,Dunfermline
@@ -267,10 +267,10 @@
  b_kincardine,Kincardine
  b_ballater,Ballater
  d_the_isles,Mann
- c_isle_of_man,1 Isle of Man
+ c_isle_of_man,Isle of Man
  b_castletown,2 Holmwick
  b_ramsey,Ramsey
- d_galloway,1 Strathclyde
+ d_galloway,Strathclyde
  c_lennox,Lennox
  b_dumbarton,Dumbarton
  b_glasgow,Glasgow
@@ -293,7 +293,7 @@
  c_inner_hebrides,Inner Hebrides
  b_islay,Islay
  b_arran,Arran
- b_mull,1 Iona
+ b_mull,Iona
  c_outer_hebrides,Outer Hebrides
  b_skye,Skye
  b_lewis,Lewis
@@ -418,7 +418,7 @@
  b_zerbst,Zerbst
  c_halberstadt,Halberstadt
  b_halberstadt,Halberstadt
- b_werningerode,1 Wernigerode
+ b_werningerode,Wernigerode
  b_arnstein,Arnstein
  c_magdeburg,Magdeburg
  b_magdeburg,Magdeburg
@@ -427,7 +427,7 @@
  c_blankenburg,Blankenburg
  b_blankenburg,Blankenburg
  b_hohenstein,Hohenstein
- c_mansfeld,1 Mansfeld
+ c_mansfeld,Mansfeld
  b_mansfeld,Mansfeld
  b_sangerhausen,Sangerhausen
  c_mersenburg,Mersenburg
@@ -540,9 +540,9 @@
  b_cottbus,Cottbus
  b_kamenz,Kamenz
  b_lubben,Lubben
- c_gorlitz,1 Görlitz
+ c_gorlitz,Görlitz
  b_gorlitz,Görlitz
- b_bautzen,1 Budissin
+ b_bautzen,Budissin
  b_spremberg,Spremberg
  d_lausitz,Lausitz
  c_juterbog,Jüterbog
@@ -556,10 +556,10 @@
  b_brene,Brene
  b_duben,Düben
  c_spreewald,Spreewald
- b_spreewald,1 Guben
+ b_spreewald,Guben
  b_storkow,Storkow
- c_naumberg,1 Lubsko
- b_naumberg,1 Lubsko
+ c_naumberg,Lubsko
+ b_naumberg,Lubsko
  b_forst,Forst
  d_holstein,Holstein
  c_lubeck,Lubeck
@@ -589,7 +589,7 @@
  b_muhlhausen,Mulhausen
  c_orlamunde,Orlamünde
  b_orlamunde,Orlamünde
- b_schwarzburg,1 Schwarzburg
+ b_schwarzburg,Schwarzburg
  b_kafernburg,Kafernburg
  c_lobdaburg,Lobdaburg
  b_lobdaburg,Lobdaburg
@@ -715,7 +715,7 @@
  c_nancy,Nancy
  b_nancy,Nancy
  b_epinal,Epinal
- b_blankenberg,1 Lünstadt
+ b_blankenberg,Lünstadt
  b_salm,Salm
  c_metz,Metz
  b_metz,Metz
@@ -728,7 +728,7 @@
  b_bitsch,Bitsch
  c_puttlingen,Puttlingen
  b_puttlingen,Puttlingen
- b_finstigen,1 Finstingen
+ b_finstigen,Finstingen
  c_neufchateau,Neufchâteau
  b_neufchateau,Neufchateau
  b_vaudemont,Vaudemont
@@ -754,7 +754,7 @@
  b_koblenz,Koblenz
  b_adenau,Adenau
  b_cochem,Cochem
- b_sponhem,1 Sponheim
+ b_sponhem,Sponheim
  c_bergh,Berg
  b_bergh,Bergh
  b_siegburg,Siegburg
@@ -779,7 +779,7 @@
  c_rothenburg,Rothenburg
  b_rothenburg,Rothenburg
  b_freising,Freising
- b_ilmunster,1 Ilmmünster
+ b_ilmunster,Ilmmünster
  c_geisenhausen,Geisenhausen
  b_geisenhausen,Geisenhausen
  b_erding,Erding
@@ -793,7 +793,7 @@
  b_marquardstein,Marquardstein
  c_ingolstadt,Ingolstadt
  b_ingolstadt,Ingolstadt
- b_munchsmunster,1 Münchsmünster
+ b_munchsmunster,Münchsmünster
  b_niederschonenfeld,Niederschönenfeld
  c_passau,Passau
  b_passau,Passau
@@ -801,7 +801,7 @@
  b_scharding,Schärding
  b_deggendorf,Deggendorf
  d_nordgau,Nordgau
- c_eichstadt,1 Eichstätt
+ c_eichstadt,Eichstätt
  b_eichtstad,Eichstadt
  b_hirschberg,Hirschberg
  b_neue_weissenburg,Neue Weissenburg
@@ -827,7 +827,7 @@
  b_laufen,Laufen
  c_berchtesgaden,Berchtesgaden
  b_berchtesgaden,Berchtesgaden
- b_laukental,1 Leukental
+ b_laukental,Leukental
  b_kitzbuhel,Kitzbühel
  c_hallstatt,Hallstatt
  b_hallstatt,Hallstatt
@@ -864,7 +864,7 @@
  d_steyermark,Steyermark
  c_graz,Graz
  b_graz,Graz
- b_koflach,1 Köflach
+ b_koflach,Köflach
  b_kapfenberg,Kapfenberg
  b_leoben,Leoben
  b_feldbach,Feldbach
@@ -876,8 +876,8 @@
  b_maribor,Maribor
  b_windische_buhel,Windische Buhel
  c_murzzuschlag,Mürzzuschlag
- b_murzzuschlag,1 Mürzzuschlag
- b_ostfurstenfeld,1 Fürstenfeld
+ b_murzzuschlag,Mürzzuschlag
+ b_ostfurstenfeld,Fürstenfeld
  d_osterreich,Austria
  c_vienna,Wien
  b_vienna,Wien
@@ -903,13 +903,13 @@
  b_waidhofen,Waidhofen
  c_krems,Krems
  b_krems,Krems
- b_wild,1 Raabs
+ b_wild,Raabs
  b_horn,Horn
  b_haugsdorf,Haugsdorf
  d_tyrol,Tyrol
  c_innsbruck,Innsbruck
  b_innsbruck,Innsbruck
- b_bozen,1 Meran
+ b_bozen,Meran
  b_kufstein,Kufstein
  c_brixen,Brixen
  b_brixen,Brixen
@@ -991,7 +991,7 @@
  b_mosbach,Mosbach
  b_wertheim,Wertheim
  c_kaiserslautern,Kaiserslautern
- b_kaiserslautern,1 Lautern
+ b_kaiserslautern,Lautern
  b_letningen,Letningen
  b_kreusnach,Kreusnach
  b_rockenhausen,Rockenhausen
@@ -1074,16 +1074,16 @@
  b_geroldseck,Geroldseck
  c_colmar,Colmar
  b_colmar,Colmar
- b_selestat,1 Schlettstadt
+ b_selestat,Schlettstadt
  c_sundgau,Sundgau
- b_montbelliard,1 Montbéliard
+ b_montbelliard,Montbéliard
  b_mulhouse,Mulhouse
  b_ferrette,Ferrette
  b_porrentruy,Porrentruy
  d_swabia,Swabia
  c_ulm,Ulm
  b_ulm,Ulm
- b_hellenenstein,1 Hellenstein
+ b_hellenenstein,Hellenstein
  b_helfenstein,Helfenstein
  b_schelklingen,Schelklingen
  c_grunningen,Grünningen
@@ -1092,7 +1092,7 @@
  b_berge,Berge
  b_heiligenberg,Heiligenberg
  c_wurttemberg,Württemberg
- b_wurttemberg,1 Stuttgart
+ b_wurttemberg,Stuttgart
  b_tubingen,Tübingen
  b_teck,Teck
  c_baden,Baden
@@ -1181,7 +1181,6 @@
  b_bitov,Bítov
  b_breclav,Břeclav
  b_mikulov,Mikulov
- e_roman_empire,Roman Empire
  e_byzantium,Byzantine Empire
  k_saruhan,Saruhan
  k_trinacria,Trinacria
@@ -1433,7 +1432,7 @@
  b_vakovo,Vakovo
  b_osijek,Osijek
  b_orahovica,Orahovica
- d_bosna,1 Bosnia
+ d_bosna,Bosnia
  c_rama,Rama
  b_visoki,Visoki
  b_prozor,Prozor
@@ -1452,7 +1451,7 @@
  b_kuclat,Kuclat
  b_srebrenica,Srebrenica
  b_rogatica,Rogatica
- c_vodica,1 Krajina
+ c_vodica,Krajina
  b_vodicevo,Vodičevo
  b_dubica,Dubica
  c_vrbas,Vrbas
@@ -1461,7 +1460,7 @@
  b_glaz,Glaž
  c_usora,Usora
  b_srebrenik,Srebrenik
- b_usora,1 Doboj
+ b_usora,Doboj
  b_maglaj,Maglaj
  b_tolisa,Tolisa
  c_soli,Soli
@@ -1472,7 +1471,7 @@
  b_bihac,Bihac
  b_krupa,Krupa
  b_pset,Pset
- d_usora,1 Zachlumia
+ d_usora,Zachlumia
  c_zachlumia,Zachlumia
  b_blagaj,Blagaj
  b_konjic,Konjic
@@ -2090,7 +2089,7 @@
  c_agrigento,Agrigento
  b_agricento,Girgenti
  b_castrogiovanni,Castrogiovanni
- b_caltanisetta,1 Caltanissetta
+ b_caltanisetta,Caltanissetta
  c_malta,Malta
  b_malta,Malta
  d_benevento,Benevento
@@ -2140,7 +2139,7 @@
  b_castrovillari,Castrovillari
  c_rossano,Rossano
  b_rossano,Rossano
- b_cotrone,1 Crotone
+ b_cotrone,Crotone
  k_venice,Venice
  d_venice,Venice
  c_venezia,Venezia
@@ -2149,7 +2148,6 @@
  b_mestre,Mestre
  b_chioggia,Chioggia
  k_armenian_principality,Armenian Principalities
- k_old_armenia,Old Armenia
  e_italy,Italia
  k_genoa,Genoa
  k_pisa,Pisa
@@ -2166,7 +2164,7 @@
  b_pordenone,Pordenone
  c_gorz,Görz
  b_gorizia,Gorizia
- b_triglavski,1 Tricorno
+ b_triglavski,Tricorno
  d_verona,Verona
  c_verona,Verona
  b_verona,Verona
@@ -2261,7 +2259,7 @@
  b_volterra,Volterra
  c_lucca,Lucca
  b_lucca,Lucca
- b_pistorja,1 Pistoia
+ b_pistorja,Pistoia
  b_prato,Prato
  c_arezzo,Arezzo
  b_arezzo,Arezzo
@@ -2341,7 +2339,7 @@
  d_spoleto,Spoleto
  c_spoleto,Spoleto
  b_spoleto,Spoleto
- b_assissi,1 Assisi
+ b_assissi,Assisi
  b_terni,Terni
  c_orvieto,Orvieto
  b_orvieto,Orvieto
@@ -2351,7 +2349,7 @@
  b_rieti,Rieti
  c_lanciano,Lanciano
  b_lanciano,Lanciano
- b_cluieli,1 Chieti
+ b_cluieli,Chieti
  c_abruzzi,Abruzzi
  b_avezzano,Avezzano
  b_atri,Atri
@@ -2374,11 +2372,11 @@
  b_terracina,Terracina
  e_scandinavia,Scandinavia
  k_sweden,Sweden
- d_svealand,1 Uppland
+ d_svealand,Uppland
  c_upland,Upland
  b_sigtuna,Sigtuna
  b_uppsala,Uppsala
- b_enescopinge,1 Enköping
+ b_enescopinge,Enköping
  b_osthammar,Östhammar
  c_gastrikland,Gestrikalandia
  b_gavle,Gävle
@@ -2387,7 +2385,7 @@
  c_sodermannaland,Södermannaland
  b_strigines,Strigines
  b_talje,Tälje
- b_nykopung,1 Nyköping
+ b_nykopung,Nyköping
  b_sundby,Sundby
  b_birkevik,Birkevik
  c_aland,Aland
@@ -2396,15 +2394,15 @@
  d_bergslagen,Bergslagen
  c_vastmanland,Västmannaland
  b_vaestraaros,Västraaros
- b_arbuga,1 Arboga
+ b_arbuga,Arboga
  b_skynzekkeberge,Skynzekkeberge
  b_fernabo,Fernabo
- c_varmland,Värmaland 
+ c_varmland,Värmaland
  b_tingvalla,Tingvalla
  b_friskdal,Friskdal
  b_vase,Väse
  b_farnebo,Färnebo
- c_dalarna,1 Övre Dalarna
+ c_dalarna,Övre Dalarna
  b_mor,Morum
  b_molungr,Molungr
  b_orsa,Orsa
@@ -2432,9 +2430,9 @@
  b_nordmark,Nordmark
  b_josse,Jösse
  b_gillberg,Gillberg
- d_ostergotland,1 Östergötland
+ d_ostergotland,Östergötland
  c_ostergotland,Östergötland
- b_sudherkopung,1 Söderköping
+ b_sudherkopung,Söderköping
  b_hamarkinda,Hamarkinda
  b_vreta,Vreta
  b_norrkoping,Norrköping
@@ -2443,7 +2441,7 @@
  b_skanninge,Skänninge
  b_grebo2,Grebo
  c_narke,Neeric
- b_orabro,1 Örebro
+ b_orabro,Örebro
  b_riseberga,Riseberga
  b_noraskog,Noraskog
  d_smaland,Småland
@@ -2463,7 +2461,7 @@
  b_uppvidinge,Uppvidinge
  c_njudung,Njudung
  b_wisinghnso,Wisinghnsö
- b_jonkoping,1 Jönköping
+ b_jonkoping,Jönköping
  b_hultaby,Hultaby
  b_eksjo,Eksjö
  c_finnveden,Finnveden
@@ -2483,14 +2481,14 @@
  b_hafra,Hafrä
  b_lidh,Lidh
  b_hedanger,Hedanger
- c_angermanland,1 Ångermanland
+ c_angermanland,Ångermanland
  b_solatumum,Solatumum
  b_sioboradh,Sioboradh
  b_neteru,Neteru
  b_grundasund,Grundasund
  d_gotland,Visby
- c_gutland,1 Gotland
- b_wysbu,1 Visby
+ c_gutland,Gotland
+ b_wysbu,Visby
  b_garna,Garnä
  b_burss,Burss
  b_faroo,Faröö
@@ -2592,7 +2590,7 @@
  c_lolland_falster,Lolland-Falster
  b_nykobing,Nykøbing
  b_nakskov,Nakskov
- d_skane,1 Skåne
+ d_skane,Skåne
  c_skane,Skåne
  b_lund,Lund
  b_trelleborg,Trelleborg
@@ -2872,7 +2870,7 @@
  b_parnu,Parnu
  b_viljandi,Viljandi
  b_alistegunde,Alistegunde
- c_dorpat,1 Tartu
+ c_dorpat,Tartu
  b_tartu,Tartu
  b_poltsamaa,Poltsamaa
  b_vastseliina,Vastseliina
@@ -2981,10 +2979,10 @@
  c_brzeg,Brzeg
  b_brzeg,Brzeg
  b_olawa,Olawa
- b_otmunchow,1 Otmuchów
+ b_otmunchow,Otmuchów
  c_nysa,Nysa
  b_nysa,Nysa
- b_glogowek,1 Glogówek
+ b_glogowek,Glogówek
  b_frankenstein,Frankenstein
  c_cieszyn,Cieszyn
  b_cieszyn,Cieszyn
@@ -2999,29 +2997,29 @@
  c_breslau,Breslau
  b_breslau,Breslau
  b_bardo,Bardo
- c_miliez,1 Milicz
- b_miliez,1 Milicz
+ c_miliez,Milicz
+ b_miliez,Milicz
  b_olesnica,Oleśnica
  c_schweibus,Schweibus
  b_schweibus,Schweibus
- b_siedlischo,1 Siedlisko
+ b_siedlischo,Siedlisko
  b_bytom,Bytom
  c_grunberg,Grunberg
  b_grunberg,Grunberg
  b_gubin,Gubin
- b_crossen,1 Krosno
+ b_crossen,Krosno
  c_sprottau,Sprottau
  b_sprottau,Sprottau
- b_zagan,1 Żagań
+ b_zagan,Żagań
  b_nowogrodziec,Nowogrodziec
- c_przemkow,1 Przemków
- b_przemkow,1 Przemków
- b_wlen,1 Wleń
- b_swiny,1 Świny
+ c_przemkow,Przemków
+ b_przemkow,Przemków
+ b_wlen,Wleń
+ b_swiny,Świny
  c_legnica,Legnica
  b_legnica,Legnica
- b_glogow,1 Głogów
- b_sadowel,1 Sądowel
+ b_glogow,Głogów
+ b_sadowel,Sądowel
  d_kuyavia,Kuyavia
  c_kujawy,Kujawy
  b_kruszwica,Kruszwica
@@ -3045,32 +3043,32 @@
  b_wielun,Wieluń
  b_grabow,Grabów
  k_pomerania,Pomerania
- d_pommerania,1 Pomerania
- c_stettin,1 Szczecin
+ d_pommerania,Pomerania
+ c_stettin,Szczecin
  b_szczecin,Szczecin
- b_ucramund,1 Wkra
- b_gryfino,1 Pyrzyce
- c_kolobrzeg,1 Wolin
- b_swinoujscie,1 Wolin
- b_kolobrzeg,1 Kamień
- b_stargad,1 Goleniów
- b_lobez,1 Nowogard
- c_soldin,1 Cedynia
- b_soldin,1 Cedynia
- b_kostschin,1 Kostrzyn
- c_cammin,1 Kołobrzeg
- b_cammin,1 Kołobrzeg
- b_dramberg,1 Czaplinek
- b_belgard,1 Białogard
- c_pila,1 Wałcz
- b_walcz,1 Wałcz
- b_pila,1 Piła
+ b_ucramund,Wkra
+ b_gryfino,Pyrzyce
+ c_kolobrzeg,Wolin
+ b_swinoujscie,Wolin
+ b_kolobrzeg,Kamień
+ b_stargad,Goleniów
+ b_lobez,Nowogard
+ c_soldin,Cedynia
+ b_soldin,Cedynia
+ b_kostschin,Kostrzyn
+ c_cammin,Kołobrzeg
+ b_cammin,Kołobrzeg
+ b_dramberg,Czaplinek
+ b_belgard,Białogard
+ c_pila,Wałcz
+ b_walcz,Wałcz
+ b_pila,Piła
  b_szczecinek,Szczecinek
- c_landsberg,1 Santok
- b_landsberg,1 Santok
- b_driesen,1 Wieleń
- b_arnswalde,1 Stargard
- b_kreuz,1 Choszczno
+ c_landsberg,Santok
+ b_landsberg,Santok
+ b_driesen,Wieleń
+ b_arnswalde,Stargard
+ b_kreuz,Choszczno
  d_nordmark,Nordmark
  c_mecklenburg,Mecklenburg
  b_wismar,Wismar
@@ -3091,24 +3089,24 @@
  b_neubrandenburg,Neubrandenburg
  b_neustrelitz,Neustrelitz
  d_pomerelia,Pomerelia
- c_danzig,1 Gdańsk
+ c_danzig,Gdańsk
  b_gdansk,Gdańsk
  b_sopot,Sopot
- b_wladyslawowo,1 Puck
- b_trsow,1 Tczew
- c_slupsk,1 Słupsk
- b_slupsk,1 Słupsk
+ b_wladyslawowo,Puck
+ b_trsow,Tczew
+ c_slupsk,Słupsk
+ b_slupsk,Słupsk
  b_koszalin,Koszalin
- b_lebno,1 Lębork
- b_bytow,1 Bytów
- c_miastko,1 Szczytno
- b_hammerstein,1 Szczytno
+ b_lebno,Lębork
+ b_bytow,Bytów
+ c_miastko,Szczytno
+ b_hammerstein,Szczytno
  b_miastko,Miastko
- c_berent,1 Świecie
- b_schwetz,1 Świecie
- b_berent,1 Kościerzyna
- b_tuchowna,1 Starogard
- b_konitz,1 Chojnice
+ c_berent,Świecie
+ b_schwetz,Świecie
+ b_berent,Kościerzyna
+ b_tuchowna,Starogard
+ b_konitz,Chojnice
  d_ostmark,Ostmark
  c_brandenburg,Brandenburg
  b_brandenburg,Brandenburg
@@ -3153,44 +3151,44 @@
  b_braslau,Braslau
  b_utena,Utena
  d_prussia,Prussia
- c_malbork,1 Pomesania
- b_elblag,1 Truso
- b_marienburg,1 Malbork
- b_graudenz,1 Kwedis
- b_wislana,1 Weiksla
- c_wormditt,1 Warmia
- b_wormditt,1 Wormedeten
- b_mohrungen,1 Maurin
- b_braunsberg,1 Brus
+ c_malbork,Pomesania
+ b_elblag,Truso
+ b_marienburg,Malbork
+ b_graudenz,Kwedis
+ b_wislana,Weiksla
+ c_wormditt,Warmia
+ b_wormditt,Wormedeten
+ b_mohrungen,Maurin
+ b_braunsberg,Brus
  c_natangia,Natangia
- b_laukitten,1 Pokarwis
- b_paterswalde,1 Tapiau
- b_ostlandsberg,1 Velowe
+ b_laukitten,Pokarwis
+ b_paterswalde,Tapiau
+ b_ostlandsberg,Velowe
  c_konigsberg,Sambia
- b_konigsberg,1 Twangste
- b_labiau,1 Kaup
- c_bartenstein,1 Bartia
- b_lautenburg,1 Lecbarg
- b_bartenstein,1 Lyna
- b_insterburg,1 Isrutis
- b_rastenburg,1 Aestia
+ b_konigsberg,Twangste
+ b_labiau,Kaup
+ c_bartenstein,Bartia
+ b_lautenburg,Lecbarg
+ b_bartenstein,Lyna
+ b_insterburg,Isrutis
+ b_rastenburg,Aestia
  d_masuria,Masuria
- c_torun,1 Chełmno
- b_kulm,1 Chełmno
+ c_torun,Chełmno
+ b_kulm,Chełmno
  b_torun,Toruń
- b_briesen,1 Wąbrzeźno
- c_osterode,1 Sasna
- b_eylau,1 Ylavia
- b_brodnica,1 Lubavia
- b_osterode,1 Drweca
- c_allenstein,1 Galindia
- b_allenstein,1 Alnasteini
- b_ortelsburg,1 Sctino
- b_niedenburg,1 Nidzia
- c_angerburg,1 Sudovian
- b_lotzen,1 Rins
- b_lyck,1 Luks
- b_angerburg,1 Anger
+ b_briesen,Wąbrzeźno
+ c_osterode,Sasna
+ b_eylau,Ylavia
+ b_brodnica,Lubavia
+ b_osterode,Drweca
+ c_allenstein,Galindia
+ b_allenstein,Alnasteini
+ b_ortelsburg,Sctino
+ b_niedenburg,Nidzia
+ c_angerburg,Sudovian
+ b_lotzen,Rins
+ b_lyck,Luks
+ b_angerburg,Anger
  d_courland,Courland
  c_zemigalians,Zemigalians
  b_riga,Riga
@@ -3589,7 +3587,7 @@
  b_pavlovo,Pavlovo
  d_nizhny_novgorod,Nizhny Novgorod
  c_nizhny_novgorod,Nizhny Novgorod
- b_nizhny_novgorod,1 Nizhny Novgorod
+ b_nizhny_novgorod,Nizhny Novgorod
  b_gorodets,Gorodets
  b_kineshma,Kineshma
  b_makariev,Makariev
@@ -3600,7 +3598,7 @@
  c_manturovo,Manturovo
  b_manturovo,Manturovo
  b_kostroma,Kostroma
- b_galich_mersky,1 Galich Mersky
+ b_galich_mersky,Galich Mersky
  b_chukhloma,Chukhloma
  k_bjarmaland,Bjarmaland
  d_biarmia,Biarmia
@@ -3852,7 +3850,7 @@
  b_kalmikovsky,Kalmikovsky
  b_zhaltyr,Zhaltyr
  b_tasqala,Tasqala
- k_magyar,1 $mogyer$ Confederation
+ k_magyar,$mogyer$ Confederation
  e_volga-ural,Volga-Ural
  k_volga_bulgaria,Volga Bulgaria
  d_volga_bulgaria,Volga-Bulgaria
@@ -5230,9 +5228,9 @@
  b_tikenik,Tikenik
  b_argan,Argan
  b_chelik,Chelik
- c_dunhuang,1 Miran
+ c_dunhuang,Miran
  b_miran,Miran
- b_dunhuang,1 Luobupo
+ b_dunhuang,Luobupo
  b_nanhu_TARIM,Nanhu
  b_omotrunnaisse,Omotrunnaisse
  c_kumtag,Kumtag
@@ -5547,7 +5545,6 @@
  b_dekcha,Dekcha
  b_yashkan,Yashkan
  b_nebit_dag,Nebit Dag
- e_bactria,Bactria
  e_persia,Persian Empire
  k_persia,Persia
  d_isfahan,Isfahan
@@ -6297,8 +6294,8 @@
  b_comana,Comana
  b_glavacioc,Glavacioc
  b_costesti,Costești
- c_bucuresti,1 Tîrgoviște
- b_bucuresti,1 Tîrgoviște
+ c_bucuresti,Tîrgoviște
+ b_bucuresti,Tîrgoviște
  b_targsor,Târgșor
  c_calarasi,Călărași
  b_calarasi,Călărași
@@ -6502,14 +6499,14 @@
  b_alsoverecke,Alsóverecke
  b_borsova,Borsova
  d_transylvania,Transylvania
- c_feher,1 Fehér
+ c_feher,Fehér
  b_feher,Fehér
  b_kukullovar,Küküllovár
  b_abrudbanya,Abrudbánya
  b_nagyszeben,Nagyszeben
  b_alvinc,Alvinc
  b_szaszkezd,szászkézd
- c_szekelyfold,1 Székelyföld
+ c_szekelyfold,Székelyföld
  b_szekelyudvarhely,Székelyudvarhely
  b_marosvasarhely,Marosvásárhely
  b_csikszereda,Csíkszereda
@@ -6540,14 +6537,14 @@
  b_deva,Deva
  d_bihar,Bihar
  c_bihar,Bihar
- b_nagyvarad,Nagyvárad 
+ b_nagyvarad,Nagyvárad
  b_gyozeg,Gyozeg
  b_debrecen,Debrecen
  b_belenyes,Belényes
  b_zolonta,Zolonta
  b_elesd,Élesd
- c_zarand,1 Zaránd
- b_zarand,1 Zaránd
+ c_zarand,Zaránd
+ b_zarand,Zaránd
  b_nagyhalmagy,Nagyhalmagy
  b_pankota,Pankota
  c_bekes,Békés
@@ -6574,7 +6571,7 @@
  c_arad,Arad
  b_arad,Arad
  b_lippa,Lippa
- c_krasso,1 Krassó
+ c_krasso,Krassó
  b_krasso,Krassó
  b_ersomlyo,Ersomlyo
  b_fehertemplom,Fehértemplom
@@ -6660,8 +6657,8 @@
  b_la_haye,La Haye
  c_tourraine,Tourraine
  b_tours,Tours
- b_tourraine,1 Langeais
- b_loches,1 Loches
+ b_tourraine,Langeais
+ b_loches,Loches
  c_blois,Blois
  b_blois,Blois
  b_contres,Contres
@@ -6683,7 +6680,7 @@
  c_maine,Maine
  b_le_mans,Le Mans
  b_courcillon,Courcillon
- b_sarthe,1 Ballon
+ b_sarthe,Ballon
  c_sable,Sable
  b_sable,Sable
  b_mayenne,Mayenne
@@ -6725,7 +6722,7 @@
  b_vierzon,Vierzon
  c_montargis,Montargis
  b_montargis,Montargis
- b_coutenay,1 Courtenay
+ b_coutenay,Courtenay
  b_chateau_renard,Château Renard
  c_vendome,Vendome
  b_vendome,Vendôme
@@ -6733,7 +6730,7 @@
  c_chartres,Chartres
  b_dreux,Dreux
  b_chartres,Chartres
- b_perche,1 Mortagne
+ b_perche,Mortagne
  b_nogent_le_rotrou,Nogent-le-Rotrou
  c_sancerre,Sancerre
  b_sancerre,Sancerre
@@ -6750,7 +6747,7 @@
  b_clairvaux,Clairvaux
  b_joinville,Joinville
  b_bar_sur_aube,Bar-sur-Aube
- c_coulommiers,1 Provins
+ c_coulommiers,Provins
  b_provins,Provins
  b_coulommiers,Coulommiers
  b_romilly,Romilly
@@ -6803,7 +6800,7 @@
  c_bar,Bar
  b_bar,Bar
  b_verdun,Verdun
- b_argonne,1 Saint-Mihiel
+ b_argonne,Saint-Mihiel
  c_briey,Briey
  b_briey,Briey
  b_hayange,Hayange
@@ -6825,7 +6822,7 @@
  b_dunkirk,Dunkirk
  c_guines,Guines
  b_calais,Calais
- b_grevelines,1 Gravelines
+ b_grevelines,Gravelines
  b_saint_omer,Saint-Omer
  c_lille,Lille
  b_lille,Lille
@@ -7013,7 +7010,7 @@
  b_quimper,Quimper
  b_lorient,Lorient
  b_cornouailles,Cornouailles
- c_french_leon,1 Léon
+ c_french_leon,Léon
  b_brest,Brest
  b_st_pol_de_leon,St Pol de Leon
  c_penthievre,Penthievre
@@ -7032,7 +7029,7 @@
  b_vaison,Vaison
  c_provence,Provence
  b_toulon,Toulon
- b_dragugnian,1 Draguignan
+ b_dragugnian,Draguignan
  b_castellane,Castellane
  b_marseille,Marseille
  b_aix,Aix
@@ -7065,7 +7062,7 @@
  c_canavese,Canavese
  b_ivrea,Ivrea
  b_pinerolo,Pinerolo
- b_canavese,1 Susa
+ b_canavese,Susa
  d_dauphine,Viennois
  c_lyon,Lyon
  b_lyon,Lyon
@@ -7081,7 +7078,7 @@
  c_viennois,Viennois
  b_grenoble,Grenoble
  b_vienne,Vienne
- b_chartreuse,1 Paladru
+ b_chartreuse,Paladru
  b_romans,Romans
  c_valentinois,Valentinois
  b_monteil,Monteil
@@ -7123,20 +7120,20 @@
  b_pedroche,Pedroche
  c_calatrava,Calatrava
  b_calatrava,Calatrava
- b_tomelloso,1 Valdepeñas
+ b_tomelloso,Valdepeñas
  b_mentesa,Mentesa
- c_almader,1 Alarcos
+ c_almader,Alarcos
  b_alarcos,Alarcos
- b_almader,1 Almadén
- c_andujar,1 Jaén
+ b_almader,Almadén
+ c_andujar,Jaén
  b_jaen,Jaén
  b_andujar,Andújar
  b_ubeda,Ubeda
  d_granada,Granada
  c_granada,Granada
  b_granada,Granada
- b_quesada,1 Huescar
- b_guadiz,1 Guadix
+ b_quesada,Huescar
+ b_guadiz,Guadix
  c_almeria,Almeria
  b_almeria,Almería
  b_lorca,Lorca
@@ -7153,7 +7150,7 @@
  b_sevilla,Seville
  b_carmona,Carmona
  b_almonte,Almonte
- b_triana,1 Aznalcóllar
+ b_triana,Aznalcóllar
  c_cadiz,Cadiz
  b_cadiz,Cádiz
  b_tarifa,Tarifa
@@ -7166,7 +7163,7 @@
  b_niebla,Niebla
  b_huelva,Huelva
  b_ayamonte,Ayamonte
- b_zafra,1 Aracena
+ b_zafra,Aracena
  c_moura,Moura
  b_moura,Moura
  b_serpa,Serpa
@@ -7182,23 +7179,23 @@
  b_arganda,Arganda
  c_molina,Molina
  b_molina,Molina
- b_ablanque,1 Atienza
+ b_ablanque,Atienza
  b_medinaceli,Medinaceli
  b_siguenza,Sigüenza
  c_cuenca,Cuenca
  b_cuenca,Cuenca
- b_altotajo,1 Huélamo
- b_zurita,1 Zorita
+ b_altotajo,Huélamo
+ b_zurita,Zorita
  b_huete,Huete
  c_malagon,Malagon
  b_malagon,Malagon
  b_cabaneros,Cabaneros
  b_lajara,La Jara
  b_lapueblademontalban,La Puebla de Montalban
- c_mora,1 Uclés
+ c_mora,Uclés
  b_ucles,Ucles
  b_mora,Mora
- b_ocana,1 Ocaña
+ b_ocana,Ocaña
  b_quintanar,Quintanar
  k_badajoz,Badajoz
  d_beja,Beja
@@ -7206,13 +7203,13 @@
  b_lisboa,Lisboa
  b_santarem,Santarém
  b_setubal,Setúbal
- c_beja,1 Évora
+ c_beja,Évora
  b_evora,Évora
  b_beja,Beja
  c_alcacer_do_sal,Alcacer do Sal
  b_alcacerdosal,Alcácer do Sal
  b_montemor,Montemor
- b_vianadoalento,1 Viana do Alentejo
+ b_vianadoalento,Viana do Alentejo
  b_avis,Avis
  c_elvas,Elvas
  b_elvas,Elvas
@@ -7222,10 +7219,10 @@
  c_badajoz,Badajoz
  b_badajoz,Badajoz
  b_olivienza,Olivienza
- b_ilerena,1 Llerena
+ b_ilerena,Llerena
  c_plasencia,Plasencia
  b_hervas,Hervás
- b_coira,1 Coria
+ b_coira,Coria
  b_almaraz,Almaraz
  c_caceres,Caceres
  b_caceres,Cáceres
@@ -7237,7 +7234,7 @@
  b_castilblanco,Castilblanco
  c_medellin,Medellin
  b_medellin,Medellin
- b_donllorente,1 La Serena
+ b_donllorente,La Serena
  b_hornachos,Hornachos
  d_algarve,Algarve
  c_faro,Faro
@@ -7261,10 +7258,10 @@
  c_teruel,Teruel
  b_teruel,Teruel
  b_maestrazgo,Maestrazgo
- b_ademuz,1 Alpuente
+ b_ademuz,Alpuente
  c_denia,Denia
  b_denia,Dénia
- b_almansa,1 Alcoy
+ b_almansa,Alcoy
  c_alicante,Alicante
  b_alicante,Alacant
  b_albacete,Albacete
@@ -7274,8 +7271,8 @@
  b_alcudia,Alcúdia
  c_menorca,Menorca
  b_menorca,Minorca
- c_iviza,1 Ibiza
- b_iviza,1 Ibiza
+ c_iviza,Ibiza
+ b_iviza,Ibiza
  d_murcia,Murcia
  c_murcia,Murcia
  b_murcia,Murcia
@@ -7285,12 +7282,12 @@
  b_cieza,Cieza
  c_alcaraz,Alcaraz
  b_alcaraz,Alcaraz
- b_huescar,1 Cotillas
- b_segura,1 Albacete
- b_reolid,1 Montiel
+ b_huescar,Cotillas
+ b_segura,Albacete
+ b_reolid,Montiel
  c_alarcon,Alarcon
  b_alarcon,Alarcón
- b_ventadelmoro,1 Iniesta
+ b_ventadelmoro,Iniesta
  b_valeria,Valeria
  b_alcazar,Alcazar
  k_castille,Castille
@@ -7308,7 +7305,7 @@
  b_soria,Soria
  b_osma,Osma
  b_sanesteban,San Esteban
- b_sanleonardodeyague,1 San Leonardo
+ b_sanleonardodeyague,San Leonardo
  c_cuellar,Cuellar
  b_segovia,Segovia
  b_cuellar,Cuellar
@@ -7332,15 +7329,15 @@
  b_zaragoza,Zaragoza
  b_ejea,Ejea
  b_zuera,Zuera
- b_sarinena,1 Sariñena
+ b_sarinena,Sariñena
  c_albarracin,Albarracin
  b_albarracin,Albarracin
- b_sierradesanjust,1 Utrillas
+ b_sierradesanjust,Utrillas
  b_belchite,Belchite
  c_alto_aragon,Alto Aragon
  b_alto_aragon,Alto Aragon
  b_huesca,Huesca
- b_ainsa,1 Sobrarbe
+ b_ainsa,Sobrarbe
  b_jaca,Jaca
  b_ribagorza,Ribagorza
  c_calatayud,Calatayud
@@ -7358,18 +7355,18 @@
  b_barcelona,Barcelona
  b_loredo,Loredo
  b_sitges,Sitges
- b_manresa,1 Cardona
+ b_manresa,Cardona
  c_urgell,Urgell
  b_urgell,Urgell
  b_berga,Berga
  b_vielha,Vielha
- b_andorra,1 Seu d'Urgell
- c_puigcerda,1 Cerdaña
+ b_andorra,Seu d'Urgell
+ c_puigcerda,Cerdaña
  b_puigcerda,Puigcerdà
  b_olot,Olot
  b_vic,Vic
  c_girona,Girona
- b_perpignan,1 Perpinyà
+ b_perpignan,Perpinyà
  b_girona,Girona
  b_roses,Roses
  c_lleida,Lleida
@@ -7392,10 +7389,10 @@
  b_arnedo,Arnedo
  c_tudela,Tudela
  b_tudela,Tudela
- b_tarazona,1 Olite
+ b_tarazona,Olite
  d_viscaya,Viscaya
  c_viscaya,Viscaya
- b_bilibio,1 Vizcaya
+ b_bilibio,Vizcaya
  b_alava,Alava
  c_ipuskoa,Ipuskoa
  b_irun,Irún
@@ -7407,7 +7404,7 @@
  b_leon,León
  b_sarria,Sarria
  b_villablino,Villablino
- b_guardo,1 Cea
+ b_guardo,Cea
  b_valenciadecampos,Valencia de Campos
  c_benavente,Benavente
  b_benavente,Benavente
@@ -7419,12 +7416,12 @@
  c_salamanca,Salamanca
  b_bejar,Bejar
  b_salamanca,Salamanca
- b_ciduadrodrigo,1 Ciudad Rodrigo
+ b_ciduadrodrigo,Ciudad Rodrigo
  c_avila,Avila
  b_avila,Avila
  b_medinadelcampo,Medina del Campo
  b_laadrada,La Adrada
- b_sierradegredos,1 Gredos
+ b_sierradegredos,Gredos
  d_asturias,Asturias
  c_asturias_de_oviedo,Asturias de Oviedo
  b_oviedo,Oviedo
@@ -7434,7 +7431,7 @@
  c_pravia,Pravia
  b_pravia,Pravia
  b_luarca,Luarca
- b_gangasdelnarcea,1 Cangas del Narcea
+ b_gangasdelnarcea,Cangas del Narcea
  b_carballido,Carballido
  k_spanish_galicia,Galicia
  d_galicia,Galicia
@@ -7466,7 +7463,7 @@
  c_porto,Porto
  b_porto,Porto
  b_braga,Braga
- b_chavez,1 Chaves
+ b_chavez,Chaves
  b_guimaraes,Guimarães
  c_braganza,Braganza
  b_braganza,Bragança
@@ -7483,11 +7480,11 @@
  b_trancoso,Trancoso
  c_aveiro,Aveiro
  b_aveiro,Aveiro
- b_gralheira,1 Cinfaes
+ b_gralheira,Cinfaes
  b_lamego,Lamego
  c_castelo_branco,Castelo Branco
  b_castelo_branco,Castelo Branco
- b_idanha,1 Beira
+ b_idanha,Beira
  b_abrantes,Abrantes
  e_maghreb,Maghreb
  k_maghreb,Maghreb
@@ -7565,7 +7562,7 @@
  c_muluya,Muluya
  b_missour,Missour
  b_tikoutamine,Tikoutamine
- b_el_ksabi,1 El-Ksabi
+ b_el_ksabi,El-Ksabi
  c_taza,Taza
  b_taza,Taza
  b_nador,Nador
@@ -7744,7 +7741,7 @@
  d_gabes,Gabes
  c_gabes,Gabes
  b_gabes,Gabes
- b_al_hamma,1 Al Hamma
+ b_al_hamma,Al Hamma
  c_sfax,Sfax
  b_sfax,Sfax
  b_el_jem,El Jem
@@ -7760,7 +7757,7 @@
  b_souf,Souf
  b_douz,Douz
  c_bir_amir,Bir Amir
- b_bir_amir,1 Bir Amir
+ b_bir_amir,Bir Amir
  b_sinawin,Sinawin
  c_ghadames,Ghadames
  b_ghadames,Ghadames
@@ -7984,7 +7981,7 @@
  b_sufaina,Sufaina
  d_mecca,Mecca
  c_mecca,Mecca
- b_makka,1 Mecca
+ b_makka,Mecca
  b_rabigh,Rabigh
  b_khulays,Khulays
  b_jidda,Jidda
@@ -8177,7 +8174,7 @@
  c_al-asa,Al-As'a'
  b_al-asa,Al-As'a'
  c_socotra,Socotra
- b_suq-socotra,1 Tamrida
+ b_suq-socotra,Tamrida
  b_qualnsiyah,Qualnsiyah
  c_dhofar,Dhufar
  b_raysut,Raysut
@@ -8465,7 +8462,7 @@
  b_bur,Bur
  b_saho,Saho
  d_lasta,Lasta
- c_lasta,1 Lasta
+ c_lasta,Lasta
  b_lalibela,Lalībäla
  b_tekeze,Tekezé
  b_lasta,Lāstā
@@ -8485,11 +8482,11 @@
  b_walaqa,Walaqa
  d_gondar,Gondar
  c_dembiya,Dämbiya
- b_gondar,1 Gondär
- b_dembiya,1 Dämbiya
+ b_gondar,Gondär
+ b_dembiya,Dämbiya
  b_galila,Gälila
  c_begemder,Begemder
- b_begemdir,1 Begemdir
+ b_begemdir,Begemdir
  b_belasa,Beläsa
  b_sana,Sana
  b_gouzara,Gouzara
@@ -8502,7 +8499,7 @@
  c_gojjam,Gojjam
  b_gojjam,Gojjam
  b_bad,Bäd
- b_bahir_giyorgis,1 Bahir Giyorgis
+ b_bahir_giyorgis,Bahir Giyorgis
  b_warq,Wärq
  b_dima,Dima
  c_gafat,Gafat
@@ -8567,7 +8564,7 @@
  b_nuri,Nuri
  b_diffar,Diffar
  c_wadi_el-milk,Wadi el-milk
- b_wadi_el-milk,1 Wadi el-milk
+ b_wadi_el-milk,Wadi el-milk
  b_jebel_abu_negila,Jebel abu Negila
  b_bir_el-kai,Bir el-kai
  b_upper_milk,Upper Milk
@@ -8649,7 +8646,7 @@
  c_naqis,Naqis
  b_gebeit,Gebeit
  b_wadi_odib,Wadi Odib
- b_naqis-north,1 North Naqis
+ b_naqis-north,North Naqis
  b_naqis-south,South Naqis
  c_wadi_amur,Wadi Amur
  b_khawr_nubt,Khawr Nubt
@@ -9055,7 +9052,7 @@
  c_kebbi,Kebbi
  b_kebbi,Kebbi
  b_gummi,Gummi
- b_sokoto-north,1 Surame
+ b_sokoto-north,Surame
  c_sokoto,Sokoto
  b_sokoto,Sokoto
  b_dutsi,Dutsi
@@ -9938,7 +9935,6 @@
  b_durum,Durum
  b_jos,Jos
  b_gbagye,Gbagye
- e_india,India
  e_rajastan,Rajastan
  k_sindh,Sindh
  d_sauvira,Sauvira
@@ -10540,8 +10536,8 @@
  c_samatata,Samatata
  b_devaparvata,Devaparvata
  b_chatigama,Chātigāma
- b_candranatha,1 Candranathā
- b_pattikera,1 Pattikera
+ b_candranatha,Candranathā
+ b_pattikera,Pattikera
  b_karnaphuli,Karnaphuli
  c_harikela,Harikela
  b_unakoti,Unakoti
@@ -10549,7 +10545,7 @@
  d_nadia,Nadia
  c_nabadwipa,Nabadwipa
  b_nabadwipa,Nabadwipa
- b_attahasa,1 Attahāsa
+ b_attahasa,Attahāsa
  b_santipura,Sāntipura
  c_saptagrama,Saptagrama
  b_saptagrama,Saptagrama
@@ -10700,7 +10696,7 @@
  b_tummana,Tummana
  b_amarkantak,Amarkantak
  c_bandhugadha,Bāndhūgadha
- b_bandhugadha,1 Bāndhūgadha
+ b_bandhugadha,Bāndhūgadha
  b_bahoriband,Bahoriband
  b_soubhagyapura,Soubhagyapura
  k_orissa,Orissa
@@ -11204,7 +11200,7 @@
  b_mullaitivu,Mullaitivu
  b_mannar,Mannar
  e_tibet,Tibet
- k_u,Ü 
+ k_u,Ü
  d_yarlung,Yarlung
  c_zetang,Zêtang
  b_zetang,Zêtang
@@ -11325,7 +11321,7 @@
  b_caze,Cazê
  b_rusar,Rusar
  b_kunglung,Kunglung
- c_xaitongmoin,1 Tongmoin
+ c_xaitongmoin,Tongmoin
  b_tongmoin,Tongmoin
  b_qingtu,Qingtü
  b_leba,Lêba
@@ -11333,7 +11329,7 @@
  c_nyima,Nyima
  b_nyima,Nyima
  b_ladoi,Ladoi
- b_sinya,1 Sinya
+ b_sinya,Sinya
  b_gyagog,Gyagog
  c_aso,Aso
  b_aso,Aso
@@ -11454,7 +11450,7 @@
  c_xining,Xining
  b_rusar_huangzhong,Rusar
  b_xining,Xining
- b_tongkor,1 Tongkor
+ b_tongkor,Tongkor
  c_datong,Datong
  b_datong,Datong
  b_serkok,Serkok
@@ -11600,8 +11596,8 @@
  b_gyumai,Gyümai
  b_jigzhi,Jigzhi
  d_malho,Malho
- c_rebgong,1 Rebgong
- b_rebgong,1 Rebgong
+ c_rebgong,Rebgong
+ b_rebgong,Rebgong
  b_jainca,Jainca
  b_triga,Triga
  c_mangra,Mangra
@@ -11624,8 +11620,8 @@
  c_maqu,Maqu
  b_maqu,Maqu
  b_murje,Murjé
- k_guge,1 Gugé
- d_ngari,1 Guge
+ k_guge,Gugé
+ d_ngari,Guge
  c_tsaparang,Tsaparang
  b_tsaparang,Tsaparang
  b_tholing,Tholing
@@ -11670,7 +11666,7 @@
  b_lunggar,Lunggar
  b_ringtor,Ringtor
  b_barma,Barma
- c_zhongba,1 Drongpa
+ c_zhongba,Drongpa
  b_labrang,Labrang
  b_baryang,Baryang
  b_penchi,Penchi
@@ -11683,7 +11679,7 @@
  b_coqen,Coqên
  b_qulho,Qulho
  b_gyesarco,Gyesarco
- k_maryul,1 Maryül
+ k_maryul,Maryül
  d_ladakh,Ladakh
  c_leh,Leh
  b_leh,Leh
@@ -11710,7 +11706,7 @@
  c_purig,Purig
  b_purig,Purig
  b_dras,Dras
- d_baltiyul,1 Baltiyül
+ d_baltiyul,Baltiyül
  c_skardu,Skardu
  b_skardu,Skardu
  b_roundu,Roundu
